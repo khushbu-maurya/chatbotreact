@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/chatbotreact/static/css/main.7281a14f.css",
-    "main.js": "/chatbotreact/static/js/main.15ee00fb.js",
+    "main.js": "/chatbotreact/static/js/main.7f3dcc93.js",
     "index.html": "/chatbotreact/index.html",
     "main.7281a14f.css.map": "/chatbotreact/static/css/main.7281a14f.css.map",
-    "main.15ee00fb.js.map": "/chatbotreact/static/js/main.15ee00fb.js.map"
+    "main.7f3dcc93.js.map": "/chatbotreact/static/js/main.7f3dcc93.js.map"
   },
   "entrypoints": [
     "static/css/main.7281a14f.css",
-    "static/js/main.15ee00fb.js"
+    "static/js/main.7f3dcc93.js"
   ]
 }
